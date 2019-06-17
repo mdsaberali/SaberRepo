@@ -1,2 +1,3 @@
 Hello,
-This is my first file in first branch.
+This is my first file in first branch
+modified file in first branch.
